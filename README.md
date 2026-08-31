@@ -183,6 +183,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Replication related software*
 
 * [data-diff](https://github.com/datafold/data-diff) (archived) - Command-line tool and Python library to efficiently diff rows across two different databases.
+* [Syncle](https://github.com/osmanahmadxai/SYNCLE) - Syncs rows between MySQL and PostgreSQL, SQLite, MongoDB or Redis, by backfill, cursor polling, or reading the binlog
 
 
 ## Schema
